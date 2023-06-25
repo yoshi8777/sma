@@ -2,6 +2,7 @@ pip install matplotlib
 pip install tweepy
 pip install nltk
 pip install facebook
+pip install facebook-sdk
 pip install sys , json
 
 import nltk
