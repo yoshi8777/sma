@@ -1,0 +1,17 @@
+pip install matplotlib
+pip install tweepy
+pip install nltk
+pip install facebook
+pip install sys , json
+
+import nltk
+nltk.download('stopwords')
+
+export VARIABLE_NAME=value
+set VARIABLE_NAME=value
+
+cmd:
+set VARIABLE_NAME=value
+
+powershell:
+$env:VARIABLE_NAME = "value"

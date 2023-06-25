@@ -1,0 +1,4 @@
+{"text": "This is a tweet without hashtags.", "entities": {"hashtags": []}}
+{"text": "A tweet with #one hashtag.", "entities": {"hashtags": [{"text": "one"}]}}
+{"text": "Another tweet with multiple hashtags: #two #three.", "entities": {"hashtags": [{"text": "two"}, {"text": "three"}]}}
+{"text": "A tweet with duplicate hashtags: #one #one.", "entities": {"hashtags": [{"text": "one"}, {"text": "one"}]}}
